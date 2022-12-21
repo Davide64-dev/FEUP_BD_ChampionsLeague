@@ -1,0 +1,2 @@
+DROP TRIGGER IF EXISTS stadiumIfFinal;
+DROP TRIGGER IF EXISTS stadiumIfNotFinal;
